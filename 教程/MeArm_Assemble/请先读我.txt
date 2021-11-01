@@ -1,0 +1,18 @@
+感谢使用 太极创客 制作的MeArm机械臂调试程序。
+
+本文件夹中一共有两个子文件夹。
+
++ MeArm_Servo_Adj 中的 Arduino 代码是 MeArm舵机初始化调整程序。
+  该程序的作用是在MeArm组装前，注意是组装前，先使用该程序对所有MeArm舵机进行初始化使用。
+
++ MeArm_Servo_Chk 中的 Arduino 代码是 MeArm舵机安装试运行程序。
+  该程序的作用是在MeArm组装过程中，注意是组装过程中，使用该程序对所有MeArm舵机进行测试调整使用。
+
+获得更多MeArm机械臂安装帮助，请参见太极创客网站
+
+WWW.TAICHI-MAKER.COM
+
+2017/6/12
+
+
+
